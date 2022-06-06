@@ -1,0 +1,2 @@
+1) node terminal command to generate random 64 bytes hex 
+==> require('crypto').randomBytes(64).toString('hex')

@@ -1,0 +1,26 @@
+[
+    {
+        "username": "dhiraj",
+        "roles": {
+            "User": 1996
+        },
+        "password": "",
+        "refreshToken": ""
+    },
+    {
+        "username": "admin",
+        "roles": {
+            "Admin": 5846,
+            "Editor": 1999
+        },
+        "password": "",
+        "refreshToken": ""
+    },
+    {
+        "username": "rame",
+        "roles": {
+            "User": 1996
+        },
+        "password": ""
+    }
+]
